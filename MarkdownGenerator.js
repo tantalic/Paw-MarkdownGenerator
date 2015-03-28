@@ -18,6 +18,7 @@
     };
 
     MarkdownGenerator.identifier           = "com.tantalic.PawExtensions.MarkdownGenerator";
+    MarkdownGenerator.version              = "1.0.0";
     MarkdownGenerator.title                = "Markdown";
     MarkdownGenerator.fileExtension        = "md";
     MarkdownGenerator.languageHighlighter  = "markdown";
